@@ -1,0 +1,5 @@
+config.txt
+data/
+# folder data tidak akan di upload ke remote
+*.exe
+#file ekstensi exe tidak diupload ke remote
